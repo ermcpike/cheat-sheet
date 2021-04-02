@@ -208,6 +208,10 @@ section {
   font-weight: bold;
 }
 
+.highlight-green {
+  color: #2bb8ad;
+}
+
 .css-color-info {
   width: 100%;
   display: flex;
@@ -217,7 +221,7 @@ section {
 }
 
 .css-color-block {
-  width: 33.33%;
+  width: 50%;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -240,6 +244,7 @@ section {
 .css-color-codes {
   font-family: "Courier New", Courier, monospace;
   width: 80%;
+  font-size: 1em;
 }
 
 .dark-navy {
