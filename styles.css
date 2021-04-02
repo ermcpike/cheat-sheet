@@ -201,6 +201,7 @@ section {
   color: #2bb8ad;
   font-size: 1.1em;
   text-align: right;
+  padding-right: 10px;
 }
 
 .bold-green {
@@ -286,4 +287,8 @@ section {
 
 .border-purple {
   border-left: 4px solid #48278f;
+}
+
+.flexbox-direction-info {
+  padding: 10px;
 }
