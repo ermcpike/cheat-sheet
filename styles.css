@@ -283,3 +283,7 @@ section {
 .mild-purple {
   background-color: #bfa2ff;
 }
+
+.border-purple {
+  border-left: 4px solid #48278f;
+}
